@@ -1,4 +1,12 @@
 
+![Project Screenshot](cal.png)
+
+
+
+
+
+
+
 I’m excited to share a project I’ve been working on: a fully functional GUI Calculator built using Python and the Tkinter library.  
 
 This project helped me dive deeper into:
