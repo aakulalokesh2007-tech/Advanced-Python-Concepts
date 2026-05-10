@@ -1,3 +1,9 @@
+![Project Screenshot](txt_editor.png)
+
+
+
+
+
 ## Features I implemented:
 * 🔹 Full file handling (Open, Save, Save As) using filedialog.
 * 🔹 Dynamic UI updates with success/error labels.
