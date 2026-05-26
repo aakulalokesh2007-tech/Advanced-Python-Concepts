@@ -24,4 +24,4 @@ A simple, lightweight, and real-time digital clock built using Python's standard
 
 ## OUTPUT
 
-![output](clock[output]).png
+![output](clock[output].png)
