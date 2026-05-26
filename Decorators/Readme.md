@@ -8,3 +8,6 @@ Today, I built a custom logging decorator to track function execution. By wrappi
 * 🔹 First-Class Functions: In Python, functions can be passed as arguments to other functions.
 * 🔹 Wrapper Functions: The inner wra() function intercepts the call, adds the new behavior, and executes the original function.
 * 🔹 Dynamic Metadata: Utilizing func.__name__ allows the wrapper to dynamically announce exactly which function is currently executing.
+
+---
+![Output](Decorators[output].png)
