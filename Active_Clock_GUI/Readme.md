@@ -20,3 +20,8 @@ A simple, lightweight, and real-time digital clock built using Python's standard
    ```bash
    python clock.py
    ```
+
+
+## OUTPUT
+
+![output](clock[output]).png
