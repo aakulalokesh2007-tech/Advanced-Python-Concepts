@@ -11,6 +11,4 @@
 
 ---
 
-###Problem Tip: Handling Spaces in Markdown Links
-Notice the link format for the last folder: `./chat%20spammer`. 
-When linking to files or folders on GitHub that contain regular spaces, standard URLs will break. Always replace spaces with `%20` in your Markdown link paths to make sure the redirection clicks through perfectly!
+
